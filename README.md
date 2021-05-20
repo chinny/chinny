@@ -5,8 +5,8 @@
   - Photography
   - Medicine
 - 🌱 I’m currently learning ...
-  - Linux Administration
-  - Azure Administration
+  - Kubernetes
+  - Terraform
 - 💞️ I’m looking to collaborate on ...
   - Cloud engineering projects
 - 📫 How to reach me ...
