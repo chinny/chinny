@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @chinny
 - 👀 I’m interested in ...
-  - Systems Administrator
+  - Kubernetes
+  - System administration
   - Cloud Engineering
   - Photography
   - Medicine
 - 🌱 I’m currently learning ...
-  - Kubernetes
+  - Puppet
   - Terraform
 - 💞️ I’m looking to collaborate on ...
   - Cloud engineering projects
