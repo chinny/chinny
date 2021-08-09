@@ -6,7 +6,7 @@
   - Photography
   - Medicine
 - 🌱 I’m currently learning ...
-  - Puppet
+  - Ansible
   - Terraform
 - 💞️ I’m looking to collaborate on ...
   - Cloud engineering projects
