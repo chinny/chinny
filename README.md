@@ -4,10 +4,10 @@
   - Kubernetes
   - System administration
   - Infrastructure as Code
-  - Photography
-  - Medicine
+  - CI/CD
+  - System Design
 - 🌱 I’m currently learning ...
-  - Site Reliability Engineering (Observability)
+  - Go
 - 💞️ I’m looking to collaborate on ...
   - Cloud engineering projects
 - 📫 How to reach me ...
