@@ -2,14 +2,14 @@
 - 👀 I’m interested in ...
   - GitOps
   - Kubernetes
-  - System administration
   - Infrastructure as Code
   - CI/CD
   - System Design
 - 🌱 I’m currently learning ...
-  - Go
+  - GCP
+  - CKS
 - 💞️ I’m looking to collaborate on ...
-  - Cloud engineering projects
+  - FOSS Projects
 - 📫 How to reach me ...
   - jeffreychin89@gmail.com
 
